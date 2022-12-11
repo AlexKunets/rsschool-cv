@@ -47,5 +47,5 @@ __________________________
 * Zaporozhye State Engineering Academy
 * Mechanical equipment
 ### English
-____________________________
+__________________________
 A1
