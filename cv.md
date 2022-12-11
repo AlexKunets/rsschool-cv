@@ -40,7 +40,7 @@ _______________________________
                     <li class="work-list-item">Quis ipsum suspendisse ultrices gravida.</li>
                     <li class="work-list-item">Risus commodo viverra maecenas. </li>
                 </ul>
-            </div>
+</div>
 ### Experience
 __________________________
 ### Education
